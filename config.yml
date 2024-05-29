@@ -1,0 +1,6 @@
+:max_volume: 1_000_000
+:max_unit: 150
+:max_mass: 20
+:standard_key: "STANDARD"
+:special_key: "SPECIAL"
+:rejected_key: "REJECTED"
